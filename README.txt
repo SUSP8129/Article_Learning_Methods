@@ -4,8 +4,8 @@ This is an article about learning methods.
 
 URLs:
 
-1. If you enter "https://susp8129.github.io/Article_Learing_Methods/" 
-or "https://susp8129.github.io/Article_Learing_Methods/index.html", 
+1. If you enter "https://susp8129.github.io/Article_Learning_Methods"
+or "https://susp8129.github.io/Article_Learning_Methods/index.html", 
 you can see "index.html".
 
 2. To see "index2.html", please enter 
