@@ -2,9 +2,14 @@
     font-size: 60px;
 }
 
+.first {
+    background-color: aquamarine;
+}
+
 .one {
     font-size: 18px;
 }
+
 
 .def {
     font-size: 20px;
@@ -20,11 +25,19 @@
     white-space: nowrap;
 }
 
+.second {
+    background-color: lightyellow;
+}
 
 
 .two {
     font-size: 18px;
 }
+
+.third {
+    background-color: lightsalmon;
+}
+
 
 .three {
     font-size: 18px;
