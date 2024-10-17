@@ -97,7 +97,11 @@ element style {
 .final {
     background-color: lightblue;
 }
-   
+
+footer {
+    margin: 0;
+}
+
 .writtenby {
     text-align: center;
     padding-top: 20px;
